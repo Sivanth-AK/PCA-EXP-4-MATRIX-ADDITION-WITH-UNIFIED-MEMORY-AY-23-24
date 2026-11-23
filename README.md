@@ -364,10 +364,12 @@ int main(int argc, char **argv)
 ```
 ## OUTPUT:
 -> matrix.cu
+
 <img width="760" height="312" alt="image" src="https://github.com/user-attachments/assets/d8c5e853-c073-439e-bfdf-a3af22471d13" />
 
 
 -> matrix1.cu
+
 <img width="750" height="312" alt="image" src="https://github.com/user-attachments/assets/b835b685-11b1-40f7-978b-d09d7ed9b33f" />
 
 
